@@ -1,0 +1,20 @@
+# Site settings
+title: Max Florentin
+description: DataOps | Data Engineer | DevOps
+# baseurl: "" # the subpath of your site, e.g. /blog
+# url: "localhost:3000"
+
+# User settings
+username: Max Florentin
+user_description: I'm a DataOps Engineer Tech Lead from Argentina, always searching for the next challenge; no task is too scary nor too difficult. Lately I have been immersed in world of Fintech, startups and giving tech talks in some educational institutes.
+user_title: DataOps Engineer
+email: macsee13@gmail.com
+# twitter_username: lorem_ipsum
+linkedin_username: florentin-m
+github_username:  maxflorentin
+# medium_username: lorem_ipsum
+# medium_url: lorem_ipsum.medium.com
+# gplus_username:  lorem_ipsum
+
+exclude: ['package.json', 'src', 'node_modules', 'vendor']
+
