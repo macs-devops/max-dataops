@@ -8,47 +8,37 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Max Florentin
+    tagline: Data & DevOps
+    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
+    email: macsee13@gmail.com
+    timezone: America/Argentina/Buenos_Aires Timezone
     citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    website:  #do not add http://
+    linkedin: florentin-m
+    github: maxflorentin
     telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
     pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
       title: Languages
       info:
         - idiom: English
-          level: Native
-
-        - idiom: French
-          level: Professional
+          level: Intermediate
 
         - idiom: Spanish
-          level: Professional
+          level: Native
 
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Tech
           link:
 
-        - item: Snowboarding
+        - item: Agriculture
           link:
 
         - item: Cooking
@@ -243,23 +233,23 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Python, SQL & Bash
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: Airflow
         level: 98%
 
-      - name: Angular
+      - name: Git
         level: 98%
 
-      - name: HTML5 & CSS
+      - name: IaC
         level: 95%
 
-      - name: Ruby on Rails
+      - name: Cloud (AWS)
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Containers (k8s & docker) 
+        level: 70%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Designed with <i class="fas fa-heart"></i> by Max</a>
