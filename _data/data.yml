@@ -1,7 +1,3 @@
-#
-# Be aware that even a small syntax error here can lead to failures in output.
-#
-
 sidebar:
     position: right # position of the sidebar : left or right
     about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
@@ -20,7 +16,7 @@ sidebar:
     github: maxflorentin
     telegram: # add your nickname without '@' sign
     stack-overflow: # Number/Username, e.g. 123456/alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: https://drive.google.com/file/d/1oQA9QrYIZACKUI8U2PgwGZ8YrnwT17gQ/view?usp=sharing
 
     languages:
       title: Languages
