@@ -298,7 +298,7 @@ table {
 }
 
 footer {
-  display: none;
+  display: flex;
 }
 @media screen and (max-width: $mobileW) {
   .about {
