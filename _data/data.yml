@@ -14,7 +14,6 @@ sidebar:
 
     # Sidebar links
     email: macsee13@gmail.com
-    timezone: America/Argentina/Buenos_Aires Timezone
     citizenship:
     website:  #do not add http://
     linkedin: florentin-m
@@ -248,7 +247,7 @@ skills:
       - name: Cloud (AWS)
         level: 85%
 
-      - name: Containers (k8s & docker) 
+      - name: k8s & docker 
         level: 70%
 
 footer: >
