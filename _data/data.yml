@@ -1,14 +1,12 @@
 sidebar:
-    position: right # position of the sidebar : left or right
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    position: right
+    about: True # how to use.
+    education: True # in sidebar
 
-    # Profile information
     name: Max Florentin
     tagline: Data & DevOps
-    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: profile.jpg
 
-    # Sidebar links
     email: macsee13@gmail.com
     citizenship:
     website:  #do not add http://
@@ -54,28 +52,43 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: Certificacion Universitaria en DevOps
+        university: Universidad Nacional de Cordoba
+        time: 2021 - 2022
+        details: |
+          Through my university DevOps certification, I have gained a deep understanding of DevOps principles, such as continuous delivery, 
+          continuous integration, and DevOps culture. I have also learned about the tools and technologies that are used to implement these principles. 
+          I am confident that this training will help me succeed in a DevOps career.
+            - DevOps Culture
+            - Git
+            - Build & Package Managers
+            - CI/CD
+            - Containers
+            - Cloud Services
+            - IaC
+            - Telemetry 
+      - degree: Diplomatura Arquitecturas en Big Data Aplicadas 
+        university: UTN
+        time: 2019 - 2020
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
           sociis natoque penatibus et magnis dis parturient montes, nascetur
           ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
           pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+            - Apache Hadoop
+            - NoSQL Mongo db
+            - Distributed programming
+            - Text Mining
+            - NoSQL Cassandra & Neo4j
+            - Data Science
+      - degree: Systems Analyst
+        university: IRSO
+        time: 2018 - 2020
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          I dropped out of the second year of the Systems Analyst career. I had to focus on other priorities at the time, 
+          but I am still interested in pursuing a career in systems analysis. 
+          I am currently working on my own projects to build my skills and knowledge.
 
 experiences:
     title: Experiences
