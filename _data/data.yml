@@ -140,14 +140,14 @@ certifications:
           end: 2023
           organization: IT College
           credentialid: 88359912
-          credentialurl: https://credentials.itcollege.com.ar/6ba5a130-4072-4fd0-8538-ade50a3c1925#gs.1cjpmk
+          credentialurl: "https://credentials.itcollege.com.ar/6ba5a130-4072-4fd0-8538-ade50a3c1925#gs.1cjpmk"
           credentialname: Develop of AI solutions with Azure OpenAI Service 
         - name: AWS Data Engineering
           start: 2023
           end: 2023
           organization: Datapath
           credentialid: DATAPATH-CE-033-2023-010
-          credentialurl: https://datapath.iacerts.com/usuario/certificado/9c998ebe-a5d8-44e5-af0e-eca131d0a0b6
+          credentialurl: "https://datapath.iacerts.com/usuario/certificado/9c998ebe-a5d8-44e5-af0e-eca131d0a0b6"
           credentialname: AWS Data Engineering
 
 projects:
@@ -160,8 +160,8 @@ projects:
         tagline: "I participated as a Data Engineer and as a DevOps"
 
       - title: Lahuen Cooperativa de Trabajo
-        link: "www.lahuen.ar"
-        tagline: "Cloud and Infrastructure Manager."
+        link: "https://www.lahuen.ar/"
+        tagline: "Cloud and Infrastructure responsible."
 
 skills:
     title: Skills &amp; Proficiency
