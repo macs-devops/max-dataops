@@ -141,7 +141,7 @@ certifications:
           organization: IT College
           credentialid: 88359912
           credentialurl: https://credentials.itcollege.com.ar/6ba5a130-4072-4fd0-8538-ade50a3c1925#gs.1cjpmk
-          credentialname: Development of artificial intelligence solutions Generative with Azure OpenAI Service 
+          credentialname: Develop of AI solutions with Azure OpenAI Service 
         - name: AWS Data Engineering
           start: 2023
           end: 2023
@@ -155,25 +155,13 @@ projects:
     intro: >
       Some projects in which I collaborated in parallel to my main activity.
     assignments:
-      - title: Velocity
+      - title: Panamá Wallet
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "I participated as a Data Engineer and as a DevOps"
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Lahuen Cooperativa de Trabajo
+        link: "www.lahuen.ar"
+        tagline: "Cloud and Infrastructure Manager."
 
 skills:
     title: Skills &amp; Proficiency
