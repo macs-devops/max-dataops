@@ -161,7 +161,11 @@ projects:
 
       - title: Lahuen Cooperativa de Trabajo
         link: "https://www.lahuen.ar/"
-        tagline: "Cloud and Infrastructure responsible."
+        tagline: "Cloud and Infrastructure responsible"
+
+      - title: Coderhouse
+        link: "https://www.coderhouse.com"
+        tagline: "Classes, tutorials and talks as a Data specialist"
 
 skills:
     title: Skills &amp; Proficiency
