@@ -137,27 +137,23 @@ certifications:
       list:
         - name: MS-AI-050
           start: 2023
-          end:
+          end: 2023
           organization: IT College
           credentialid: 88359912
           credentialurl: https://credentials.itcollege.com.ar/6ba5a130-4072-4fd0-8538-ade50a3c1925#gs.1cjpmk
           credentialname: Development of artificial intelligence solutions Generative with Azure OpenAI Service 
-          details:
         - name: AWS Data Engineering
           start: 2023
-          end:
+          end: 2023
           organization: Datapath
           credentialid: DATAPATH-CE-033-2023-010
           credentialurl: https://datapath.iacerts.com/usuario/certificado/9c998ebe-a5d8-44e5-af0e-eca131d0a0b6
           credentialname: AWS Data Engineering
-          details:
 
 projects:
     title: Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Some projects in which I collaborated in parallel to my main activity.
     assignments:
       - title: Velocity
         link: "#hook"
