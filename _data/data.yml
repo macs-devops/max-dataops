@@ -93,84 +93,64 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Lead DataOps Engineer
+        time: 2023 - Present
+        company: dlocal, Uruguay
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+          Founded and led a new DataOps team, responsible for building a platform for data teams.
+          Deployed Apache Airflow on Amazon Elastic Container Service (ECS). 
+          The deployment uses GitHub Actions to automate the deployment process.
+          Created a custom DAG factory to automate the creation of DAGs from YAML files.
+          Customized operators, plugins, and connections to allow jobs to be executed
+          from the AWS account of Data in other accounts of the organization.  
+            - Founded team
+            - Design architectures for Data solutions
+      - role: Senior Data Engineer
+        time: 2022 - 2023
+        company: dlocal, Uruguay
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+            - Collaborate with legacy system maintenance
+      - role: Senior Staff DataOps Engineer
+        time: 2022 - 2022
+        company: ank, Argentina
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          During my time at the company as a DataOps, I spearheaded the implementation of tools and 
+          processes aimed at streamlining daily tasks for data engineers. 
+          This included optimizing build processes, deployments, enhancing observability, and improving incident management. 
+          Also was a DevOps role, I participated in troubleshooting and deployments collaborating with the team.
+            - Terraform modules for data streams
+            - Improve performance Metabase cluster.
+      - role: Senior Staff Data Engineer
+        time: 2021 - 2022
+        company: ank, Argentina
+        details: |
+          I led the building of data platform, conducting analyses on tools and technologies for delivery to diverse user
+          groups, including analytics and operations teams. My responsibilities extended to architecting the data lake and 
+          databases, implementing pipelines and automations. 
+          Additionally, I played a key role in deploying, administering, and providing support for the team's infrastructure.
+            - Apache Airflow running on k8s
+            - Redshift Materialized Views improvemets
+            - Apache Airflow - EMR steps integrations and DAG factory.
 
 certifications:
       title: Certifications
       list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
-          details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
-          start: 2019
+        - name: MS-AI-050
+          start: 2023
           end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
-          details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+          organization: IT College
+          credentialid: 88359912
+          credentialurl: https://credentials.itcollege.com.ar/6ba5a130-4072-4fd0-8538-ade50a3c1925#gs.1cjpmk
+          credentialname: Development of artificial intelligence solutions Generative with Azure OpenAI Service 
+          details:
+        - name: AWS Data Engineering
+          start: 2023
+          end:
+          organization: Datapath
+          credentialid: DATAPATH-CE-033-2023-010
+          credentialurl: https://datapath.iacerts.com/usuario/certificado/9c998ebe-a5d8-44e5-af0e-eca131d0a0b6
+          credentialname: AWS Data Engineering
+          details:
 
 projects:
     title: Projects
