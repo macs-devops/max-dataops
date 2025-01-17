@@ -14,7 +14,7 @@ sidebar:
     github: maxflorentin
     telegram: # add your nickname without '@' sign
     stack-overflow: # Number/Username, e.g. 123456/alandoe
-    pdf: https://drive.google.com/file/d/1oQA9QrYIZACKUI8U2PgwGZ8YrnwT17gQ/view?usp=sharing
+    pdf: https://drive.google.com/file/d/1H3GuearwYnKA7oIHcJI6C-QHt27nYKgA/view?usp=sharing
 
     languages:
       title: Languages
@@ -40,15 +40,12 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I have over 13 years of experience working in distinct roles as BI developer, Data Engineer, DataOps, and DevOps. 
-      This experience has given me a unique perspective on the data industry. I have seen how data can be used to solve real-world problems, 
-      and I am passionate about using my skills to make a difference.
-      This has allowed me to understand the intricacies of Data management. From its raw collection and processing to its insightful analysis 
-      and models application. I am able to see the big picture and understand how different parts of a data project fit together. 
-      I am also able to collaborate effectively with others, regardless of their role or expertise.
-
-      I am confident that my skills and experience make me a valuable asset to team. I am a team player who is always willing to go the extra mile. 
-      I am also a quick learner and I am always eager to take on new challenges.
+      With over 14 years of experience spanning BI development, Data Engineering, DataOps, and DevOps, I've developed a comprehensive understanding of the data industry's ecosystem. 
+      My diverse roles have enabled me to master the complete data lifecycle—from initial collection and processing to advanced analytics and model deployment. 
+      I've consistently delivered solutions to complex real-world problems, collaborating effectively across teams and technical domains. 
+      
+      This broad expertise allows me to see beyond individual components to understand how each element contributes to a project's success. 
+      I pride myself on being a proactive team player who combines technical proficiency with a growth mindset, always eager to tackle new challenges and expand my skillset.
 education:
     title: Education
     info:
@@ -71,17 +68,10 @@ education:
         university: UTN
         time: 2019 - 2020
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Apache Hadoop
-            - NoSQL Mongo db
-            - Distributed programming
-            - Text Mining
-            - NoSQL Cassandra & Neo4j
-            - Data Science
+          Covered fundamental technologies and methodologies for large-scale data processing and analysis. 
+          The program provided comprehensive coverage of the Apache Hadoop ecosystem for distributed computing, along with robust training in NoSQL databases including MongoDB, Cassandra, and Neo4j, each oriented toward different use cases and data architectures. 
+          The curriculum delved into distributed programming for efficient processing of large data volumes, as well as advanced Text Mining techniques for analyzing and extracting information from unstructured data. 
+          The program culminated with an integrated approach to Data Science, encompassing statistical methods and analytical techniques for extracting meaningful insights from complex datasets.
       - degree: Systems Analyst
         university: IRSO
         time: 2018 - 2020
@@ -93,16 +83,17 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Lead DataOps Engineer
+      - role: Tech Lead DataOps Engineering
         time: 2023 - Present
         company: dlocal, Uruguay
         details: |
           Founded and led a new DataOps team, responsible for building a platform for data teams.
-          Deployed Apache Airflow on Amazon Elastic Container Service (ECS). 
-          The deployment uses GitHub Actions to automate the deployment process.
+          Deployed Apache Airflow first on Amazon Elastic Container Service (ECS) and then on AWS EKS. 
+          The deployment uses GitHub Actions to automate the deployment process and Argo CD.
           Created a custom DAG factory to automate the creation of DAGs from YAML files.
           Customized operators, plugins, and connections to allow jobs to be executed
-          from the AWS account of Data in other accounts of the organization.  
+          from the AWS account of Data in other accounts of the organization.
+          Designed a new data lake (Apache Iceberg) simplify data pipelines and optimize rythm of ingestions (near real time) and reduce costs. 
             - Founded team
             - Design architectures for Data solutions
       - role: Senior Data Engineer
@@ -157,11 +148,11 @@ projects:
     assignments:
       - title: Panamá Wallet
         link: "#hook"
-        tagline: "I participated as a Data Engineer and as a DevOps"
+        tagline: "I participated as a Lead Data Engineering and as a DevOps"
 
       - title: Lahuen Cooperativa de Trabajo
         link: "https://www.lahuen.ar/"
-        tagline: "Cloud and Infrastructure responsible"
+        tagline: "Founder and CTO"
 
       - title: Coderhouse
         link: "https://www.coderhouse.com"
